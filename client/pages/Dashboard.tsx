@@ -10,6 +10,7 @@ import {
   DollarSign,
   Box,
   Truck,
+  Settings as SettingsIcon,
 } from "lucide-react";
 
 // Mock data for demonstration
