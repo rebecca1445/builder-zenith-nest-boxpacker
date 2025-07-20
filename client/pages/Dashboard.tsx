@@ -282,7 +282,7 @@ export function Dashboard() {
           </CardHeader>
           <CardContent className="space-y-3">
             <Button className="w-full justify-start gap-2" variant="outline">
-              <Settings className="h-4 w-4" />
+              <SettingsIcon className="h-4 w-4" />
               Configure Box Sizes
             </Button>
             <Button className="w-full justify-start gap-2" variant="outline">
